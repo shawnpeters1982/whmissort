@@ -1,0 +1,11 @@
+files	info1	info2	info3
+biohazardous	Biohazards	"Is or may contain,harmful micro-organisms that can cause disease"	"HIV-infected blood carries harmful micro-organisms, posing disease risks."
+corrosion	Corrosive damage	Can cause severe skin burns eye damage or corrosion to metals	"Industrial hydrochloric acid can harm skin, eyes, and metals on contact."
+environmental	Environmental hazards	Can cause damage to aquatic life and environments	Dumping industrial waste harms aquatic life and the environment.
+exclamation_mark	General health hazards	Can cause less serious health effects	Some pesticides in agriculture have health effects and harm the ozone layer.
+exploding_bomb	Explosive hazards	Unstable and may explode	Dynamite is used in construction and mining for powerful explosions.
+flame	Fire hazards	Can ignite easily and cause fire	Gasoline easily ignites in internal combustion engines.
+flame_circle	Oxidizing hazards	Can cause or intensify a fire by producing oxygen	Hydrogen peroxide intensifies reactions by producing additional oxygen.
+gas_cylinder	Pressurized gases	Stored under high pressure and may explode if heated or damaged	Propane can explode when cylinders are damaged or heated.
+health_hazard	Chronic health hazards	Can cause serious long-term health effects	"Asbestos, used in construction, causes serious health issues with exposure."
+skull_crossbones	Acute toxicity	Can cause severe health effects and could be fatal with short-term exposure	"Cyanide is a potent poison with severe health effects through inhalation, ingestion, or skin absorption."
